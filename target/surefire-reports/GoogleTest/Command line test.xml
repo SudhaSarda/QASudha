@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="Jayant" tests="1" failures="0" timestamp="29 Jul 2014 23:53:49 GMT" time="13.665" errors="0">
+  <testcase name="verifySearch" time="13.651" classname="GoogleTest"/>
+</testsuite>

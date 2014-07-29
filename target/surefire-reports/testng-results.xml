@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="GoogleTest" duration-ms="13665" started-at="2014-07-30T05:23:36Z" finished-at="2014-07-30T05:23:49Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="13665" started-at="2014-07-30T05:23:36Z" finished-at="2014-07-30T05:23:49Z">
+      <class name="GoogleTest">
+        <test-method status="PASS" signature="verifySearch()" name="verifySearch" duration-ms="13651" started-at="2014-07-30T05:23:36Z" finished-at="2014-07-30T05:23:49Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
